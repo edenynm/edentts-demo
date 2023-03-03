@@ -1,0 +1,132 @@
+{
+  "0": {
+    "text": "might have been more alert in the Dallas motorcade if they had retired promptly in Fort Worth.",
+    "wav": [
+      "demo_data/testset\\LJ048-0288_gm.wav",
+      "demo_data/testset\\LJ048-0288_taco2.wav",
+      "demo_data/testset\\LJ048-0288_glow.wav",
+      "demo_data/testset\\LJ048-0288_effi.wav",
+      "demo_data/testset\\LJ048-0288_eden.wav"
+    ]
+  },
+  "1": {
+    "text": "Roupell received the announcement with a cheerful countenance,",
+    "wav": [
+      "demo_data/testset\\LJ018-0262_gm.wav",
+      "demo_data/testset\\LJ018-0262_taco2.wav",
+      "demo_data/testset\\LJ018-0262_glow.wav",
+      "demo_data/testset\\LJ018-0262_effi.wav",
+      "demo_data/testset\\LJ018-0262_eden.wav"
+    ]
+  },
+  "2": {
+    "text": "Yet the public opinion of the whole body seems to have checked dissipation.",
+    "wav": [
+      "demo_data/testset\\LJ002-0260_gm.wav",
+      "demo_data/testset\\LJ002-0260_taco2.wav",
+      "demo_data/testset\\LJ002-0260_glow.wav",
+      "demo_data/testset\\LJ002-0260_effi.wav",
+      "demo_data/testset\\LJ002-0260_eden.wav"
+    ]
+  },
+  "3": {
+    "text": "Caslon's type is clear and neat, and fairly well designed;",
+    "wav": [
+      "demo_data/testset\\LJ001-0079_gm.wav",
+      "demo_data/testset\\LJ001-0079_taco2.wav",
+      "demo_data/testset\\LJ001-0079_glow.wav",
+      "demo_data/testset\\LJ001-0079_effi.wav",
+      "demo_data/testset\\LJ001-0079_eden.wav"
+    ]
+  },
+  "4": {
+    "text": "and paying great attention to the \"press work\" or actual process of printing,",
+    "wav": [
+      "demo_data/testset\\LJ001-0051_gm.wav",
+      "demo_data/testset\\LJ001-0051_taco2.wav",
+      "demo_data/testset\\LJ001-0051_glow.wav",
+      "demo_data/testset\\LJ001-0051_effi.wav",
+      "demo_data/testset\\LJ001-0051_eden.wav"
+    ]
+  },
+  "5": {
+    "text": "who was presently attacked in the same way as the others, but, but, thanks to the prompt administration of remedies, he recovered.",
+    "wav": [
+      "demo_data/testset\\LJ017-0189_gm.wav",
+      "demo_data/testset\\LJ017-0189_taco2.wav",
+      "demo_data/testset\\LJ017-0189_glow.wav",
+      "demo_data/testset\\LJ017-0189_effi.wav",
+      "demo_data/testset\\LJ017-0189_eden.wav"
+    ]
+  },
+  "6": {
+    "text": "were induced to cut punches for a series of \"old style\" letters.",
+    "wav": [
+      "demo_data/testset\\LJ001-0094_gm.wav",
+      "demo_data/testset\\LJ001-0094_taco2.wav",
+      "demo_data/testset\\LJ001-0094_glow.wav",
+      "demo_data/testset\\LJ001-0094_effi.wav",
+      "demo_data/testset\\LJ001-0094_eden.wav"
+    ]
+  },
+  "7": {
+    "text": "otherwise he would have been stripped of his clothes. End quote.",
+    "wav": [
+      "demo_data/testset\\LJ003-0140_gm.wav",
+      "demo_data/testset\\LJ003-0140_taco2.wav",
+      "demo_data/testset\\LJ003-0140_glow.wav",
+      "demo_data/testset\\LJ003-0140_effi.wav",
+      "demo_data/testset\\LJ003-0140_eden.wav"
+    ]
+  },
+  "8": {
+    "text": "The boy declared he saw no one, and accordingly passed through without paying the toll of a penny.",
+    "wav": [
+      "demo_data/testset\\LJ002-0171_gm.wav",
+      "demo_data/testset\\LJ002-0171_taco2.wav",
+      "demo_data/testset\\LJ002-0171_glow.wav",
+      "demo_data/testset\\LJ002-0171_effi.wav",
+      "demo_data/testset\\LJ002-0171_eden.wav"
+    ]
+  },
+  "9": {
+    "text": "Mr. Buxton's friends at once paid the forty shillings, and the boy was released.",
+    "wav": [
+      "demo_data/testset\\LJ002-0174_gm.wav",
+      "demo_data/testset\\LJ002-0174_taco2.wav",
+      "demo_data/testset\\LJ002-0174_glow.wav",
+      "demo_data/testset\\LJ002-0174_effi.wav",
+      "demo_data/testset\\LJ002-0174_eden.wav"
+    ]
+  },
+  "10": {
+    "text": "Here and there a book is printed in France or Germany with some pretension to good taste,",
+    "wav": [
+      "demo_data/testset\\LJ001-0102_gm.wav",
+      "demo_data/testset\\LJ001-0102_taco2.wav",
+      "demo_data/testset\\LJ001-0102_glow.wav",
+      "demo_data/testset\\LJ001-0102_effi.wav",
+      "demo_data/testset\\LJ001-0102_eden.wav"
+    ]
+  },
+  "11": {
+    "text": "were governed by rules which they themselves had framed, and under which subscriptions were levied",
+    "wav": [
+      "demo_data/testset\\LJ002-0253_gm.wav",
+      "demo_data/testset\\LJ002-0253_taco2.wav",
+      "demo_data/testset\\LJ002-0253_glow.wav",
+      "demo_data/testset\\LJ002-0253_effi.wav",
+      "demo_data/testset\\LJ002-0253_eden.wav"
+    ]
+  },
+  "12": {
+    "text": "each patrolman might be given a prepared booklet of instructions explaining what is expected of him. The Secret Service has expressed concern",
+    "wav": [
+      "demo_data/testset\\LJ050-0188_gm.wav",
+      "demo_data/testset\\LJ050-0188_taco2.wav",
+      "demo_data/testset\\LJ050-0188_glow.wav",
+      "demo_data/testset\\LJ050-0188_effi.wav",
+      "demo_data/testset\\LJ050-0188_eden.wav"
+    ]
+  }
+}
